@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.increase{
+    max-width: 1320px;
+    margin:auto;
+    display: flex;
+}
+.traffice{
+    color:white;
+    padding:20px;
+    padding-bottom: 20px;
+    font-family: arial;
+}
+.ad a{
+    color:white;
+    text-decoration: none;
+    margin:30px;
+    font-size: 14px;
+    font-family: arial;
+}
+.box1{
+    width:25%;
+}
+.email{
+    margin:50px;
+    padding-left: 1230px; 
+}
+.logo{
+    padding-left: 1300px; 
+    color:white;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.line{
+    width:1000px;
+    padding-bottom: 50px;
+    color:white;
+    max-width: 1320px;
+    margin: auto;
+}
+.copy{
+    color:white;
+    font-family: arial;
+    max-width: 1320px;
+    margin:auto;
+    padding-bottom: 20px;
+}
